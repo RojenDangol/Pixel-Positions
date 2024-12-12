@@ -23,6 +23,7 @@
                 <a href="#">Salaries</a>
                 <a href="#">Companies</a>
             </div>
+            
 
             @auth                
             <div class="space-x-6 flex">
